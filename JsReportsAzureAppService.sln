@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27729.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "AzureResourceGroupDocker", "AzureResourceGroupDocker\AzureResourceGroupDocker.deployproj", "{B2C1E3BC-F33A-46D3-AF9D-9F3B6A69456E}"
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "JsReportsAzureAppService", "AzureResourceGroupDocker\JsReportsAzureAppService.deployproj", "{B2C1E3BC-F33A-46D3-AF9D-9F3B6A69456E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
